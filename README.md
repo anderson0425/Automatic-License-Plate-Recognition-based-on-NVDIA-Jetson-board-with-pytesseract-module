@@ -1,0 +1,1 @@
+# Automatic-License-Plate-Recognition-based-on-NVDIA-Jetson-board-with-pytesseract-module
